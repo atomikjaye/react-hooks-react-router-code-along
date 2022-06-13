@@ -1,0 +1,15 @@
+/* Add basic styling for NavLinks */
+.link {
+  display: inline-block;
+  width: 100px;
+  padding: 12px;
+  margin: 0 6px 6px;
+  background: pink;
+  text-decoration: none;
+  color: white;
+}
+
+.active {
+  background: rgb(248, 111, 134);
+
+}
